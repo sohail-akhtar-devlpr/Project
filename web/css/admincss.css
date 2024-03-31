@@ -1,0 +1,13 @@
+.admin .card{
+    border: 1px solid pink;
+}
+
+.addtype:hover .card-body {
+    background: #e2e2e2;
+    cursor:pointer;
+}
+
+.deletetype:hover .card-body {
+    background: #e2e2e2;
+    cursor:pointer;
+}
